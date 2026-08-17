@@ -1,0 +1,37 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary or generated files
+*.log
+*.tmp
+*.bak
+
+# Pygame / project local runtime output
+*.wav
+*.mp3
+*.ogg
+JRYBeats_recording_*.wav
